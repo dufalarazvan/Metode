@@ -1,0 +1,18 @@
+
+.formContainer2 
+{
+	border:2px solid;
+	border-radius:25px;
+
+}
+.formContainer .informativeText
+{
+
+	display: inline-block;
+	
+}
+
+.formContainer .test
+{
+	display: inline-block;
+}
